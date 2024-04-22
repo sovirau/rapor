@@ -12,9 +12,3 @@ LAPORAN
 2.	dfd level 2 laporan harus ada input dan output yg benar(-)
 3.	desain tabel habis erd (-)
 4.	erd dan ert harus sama entitas/tabelnya (-)
-
-daftar isi laporan bab 3 dorong loh sop
-cara disable form pisan drg, aku gak ngerti carane yopo
-
-
-TAEKKKK REVISI AEK TA
